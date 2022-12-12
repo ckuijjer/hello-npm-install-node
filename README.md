@@ -21,4 +21,6 @@ v16.13.2
 v16.13.2
 ```
 
-Note that current Node.js LTS is 18.12.1, while this installs 16.13.2
+* Note that current Node.js LTS is 18.12.1, while this installs 16.13.2
+* Use `npm install -D node@v16-lts` to get the latest v16 LTS
+* Use `npm install -D node@v18-lts` to get the latest v18 LTS
