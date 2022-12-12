@@ -1,5 +1,7 @@
 # hello-npm-install-node
 
+Playing with https://www.npmjs.com/package/node
+
 ```
 npm install -D node@lst
 ```
