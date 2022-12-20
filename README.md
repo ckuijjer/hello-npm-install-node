@@ -3,7 +3,7 @@
 Playing with https://www.npmjs.com/package/node
 
 ```
-npm install -D node@lst
+npm install -D node@lts
 ```
 
 
